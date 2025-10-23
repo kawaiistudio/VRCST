@@ -1,1 +1,1 @@
-A VRC TOOL :D
+Go in release for install the Tools
